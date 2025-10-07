@@ -4,7 +4,7 @@ The Pokedex Web App is a simple yet modern web application that displays the fir
 
 ---
 
-## 🔑 Key Features
+## Key Features
 
 - Search Pokémon by name or number
 - View detailed stats for each Pokémon
@@ -14,7 +14,7 @@ The Pokedex Web App is a simple yet modern web application that displays the fir
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 - HTML 
 - CSS  
@@ -22,7 +22,7 @@ The Pokedex Web App is a simple yet modern web application that displays the fir
 
 ---
 
-## ⚙️ Installation and Setup
+## Installation and Setup
 
 1. Clone the repository:
    ``` bash
@@ -37,7 +37,7 @@ The Pokedex Web App is a simple yet modern web application that displays the fir
 
 ---
 
-## 📘 How to Use
+## How to Use
 
 - Use the search bar to find a Pokémon by name or number.
 - Click on a Pokémon card to view its details: type, weight, height, moves, and base stats.
